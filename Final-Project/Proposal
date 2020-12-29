@@ -1,0 +1,8 @@
+Black-Litterman Model: Machine Learning Methods to form investor views
+
+The Black-Litterman model is a one-step further from mean-variance optimization, it uses a Bayesian approach to combine the subjective views of an investor regarding the expected returns of one or more assets with the market equilibrium vector of expected returns. It allows unique views and overcomes extreme value issue by choosing a neutral reference point.
+
+Research Goal: 
+* Use machine learning methods to form investor view in Black-Litterman strategies and see whether it outperforms the result from mean variance optimization.
+* Study the economic context of when & under what scenarios will Black-Litterman Portfolio strategy outperform or underperform.
+* Find the best investor view generating model, comparing different machine learning methods.
